@@ -1,0 +1,4 @@
+.carousel-flex {
+    display: flex;
+    flex-direction: row;
+}

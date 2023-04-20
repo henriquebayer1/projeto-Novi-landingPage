@@ -1,4 +1,5 @@
 import React from 'react'
+import Carrosel from '../components/Carrosel/carrosel'
 import Header from '../components/header/header'
 
 function Home() {
@@ -6,6 +7,7 @@ function Home() {
 
 <Header/>
 
+<Carrosel/>
         
         </>
     )
