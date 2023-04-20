@@ -1,0 +1,19 @@
+.button-login-cadastro {
+    width: 193px;
+    height: 46px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #3BB39D;
+    border-radius: 8px;
+    border: none;
+    color: white;
+    font-family: Montserrat;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(/public/Montserrat-VariableFont_wght.ttf);
+}
