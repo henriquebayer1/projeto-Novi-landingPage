@@ -8,7 +8,7 @@ return (
 
 <div className={styles["layout-grid"]}>
             <div className={styles["header-flex"]}>
-                <img src="/Noví.png" />
+                <img src="/Noví.png" alt="" />
 
                 <Button>Entrar/Registrar</Button>
             </div>
