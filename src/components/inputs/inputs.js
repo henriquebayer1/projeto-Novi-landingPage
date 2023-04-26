@@ -27,11 +27,9 @@ export default function Inputs() {
                             <div className={styles["second-section"]}>
                                 <label>Data de nascimento</label>
                                 <input placeholder='Digite aqui'></input>
-                                <div>
+                                
                                     <label>Celular</label>
                                     <input type='tel' placeholder='DDD + Celular'></input>
-                                    
-                                </div>
                                 <hr></hr>
                             </div>
                         </div>
